@@ -1,0 +1,2 @@
+Hello Git! Looking fresh and about to make my life miserable!
+Anyway this is the second line.
