@@ -2,3 +2,4 @@ Hello Git! So what's good?
 2nd line added in feature_1
 I had a hard day today, but i did well. Anyway, here's the 3rd line.
 I added a 4rth line from remote
+who cares?Here you go!
